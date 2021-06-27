@@ -1,2 +1,3 @@
 # html-css-codes
- Desafios básicos de web desenvolvidos em HTML5 e CSS3
+# @alissonoliveira
+# Neste repositório você vai encontrar frutos dos meus estudos sobre HTML5 e CSS3.
